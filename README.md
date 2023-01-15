@@ -1,4 +1,4 @@
-# harshibar's resume
+# resume template pm
 
 A **one-page**, **one-column column** resume template by Harshibar. This template is **minimal**, highlights **details** through links, and is a **single page**.
 
